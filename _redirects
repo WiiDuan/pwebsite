@@ -1,0 +1,5 @@
+# 重定向到HTTPS版本
+http://:project.pages.dev/* https://:project.pages.dev/:splat 301!
+
+# 如果将来有别的页面，可以在这里添加重定向规则
+# /old-page /new-page 301 
