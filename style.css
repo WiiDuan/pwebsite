@@ -255,11 +255,11 @@ header {
 }
 
 .logo-item:nth-child(4) {
-    padding: 8px; /* 进一步减小第四个logo的内边距，使其看起来更大 */
+    padding: 5px; /* 进一步减小第四个logo的内边距，使其看起来更大 */
 }
 
 .logo-item:nth-child(5) {
-    padding: 40px; /* 进一步增加第五个logo的内边距，使其看起来更小 */
+    padding: 45px; /* 进一步增加第五个logo的内边距，使其看起来更小 */
 }
 
 .logo-item img {
@@ -410,11 +410,11 @@ footer {
     }
     
     .logo-item:nth-child(4) {
-        padding: 6px; /* 平板设备上继续减小内边距 */
+        padding: 4px; /* 平板设备上继续减小内边距 */
     }
     
     .logo-item:nth-child(5) {
-        padding: 32px; /* 平板设备上调整内边距 */
+        padding: 36px; /* 平板设备上调整内边距 */
     }
 }
 
@@ -463,11 +463,11 @@ footer {
     }
     
     .logo-item:nth-child(4) {
-        padding: 4px; /* 移动设备上进一步减小内边距 */
+        padding: 2px; /* 移动设备上进一步减小内边距 */
     }
     
     .logo-item:nth-child(5) {
-        padding: 24px; /* 移动设备上调整内边距 */
+        padding: 28px; /* 移动设备上调整内边距 */
     }
     
     .availability {
