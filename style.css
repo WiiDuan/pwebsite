@@ -494,4 +494,9 @@ img, button, a {
         content-visibility: auto;
         contain-intrinsic-size: auto 500px;
     }
+}
+
+.light-text {
+    font-weight: 300;
+    font-style: normal;
 } 
